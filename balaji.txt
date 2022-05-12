@@ -1,3 +1,4 @@
 updating inmaster branch ..
+this line is updating in development branch ..
 this is the normal text file
 
