@@ -1,5 +1,10 @@
+hello guys gud morning to all
 this file contains the deploy script
 
 
-balaji reddy
+balu
+
+
+ralaji reddy
+is aprocess of practice
 
